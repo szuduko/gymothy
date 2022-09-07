@@ -1,5 +1,4 @@
 import os
-from db import database
 
 # Revo api endpoint
 API_ENDPOINT = os.environ["REVO_API"]

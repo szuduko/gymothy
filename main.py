@@ -49,7 +49,7 @@ async def gym(interaction: discord.Interaction, location: str):
     """Get a specific gym"""
 
     # Check if the location is a valid gym location
-    gym_location = location.lower()
+    gym_location = location.title()
     if gym_location in list(revo.LOCATIONS.keys()):
 
         # Query revo api

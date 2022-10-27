@@ -5,22 +5,22 @@ API_ENDPOINT = os.environ["REVO_API"]
 
 # Dictionary of WA gym locations
 LOCATIONS = {
-    "canning vale": ("canning_vale.json", 2000),
-    "claremont": ("claremont_count.json", 1370),
-    "kelmscott": ("kelmscott_count.json", 760),
-    "myaree": ("myaree_count.json", 860),
-    "northbridge": ("northbridge_count.json", 865),
-    "oconnor": ("oconnor_count.json", 1081),
-    "scarborough": ("scarbs_count.json", 920),
-    "shenton park": ("shenton_count.json", 550),
-    "victoria park": ("vic_count.json", 1100),
-    "innaloo": ("innaloo.json", 1767),
-    "cockburn": ("cockburn.json", 1000),
-    "joondalup": ("joondalup.json", 1990),
-    "mirrabooka": ("mirrabooka.json", 2400),
-    "belmont": ("belmont.json", 1050),
-    "banksia grove": ("banksia_grove.json", 1100),
-    "morley": ("morley_count.json", 1800)
+    "Banksia grove": ("banksia-grove.json", 1100),
+    "Belmont": ("belmont.json", 1050),
+    "Canning Vale": ("canning-vale.json", 2000),
+    "Claremont": ("claremont.json", 1370),
+    "Cockburn": ("cockburn.json", 1000),
+    "Innaloo": ("innaloo.json", 1767),
+    "Joondalup": ("joondalup.json", 1990),
+    "Kelmscott": ("kelmscott.json", 760),
+    "Mirrabooka": ("mirrabooka.json", 2400),
+    "Morley": ("morley.json", 1800),
+    "Myaree": ("myaree.json", 860),
+    "Northbridge": ("northbridge.json", 865),
+    "O'Connor": ("oconnor.json", 1081),
+    "Scarborough": ("scarborough.json", 920),
+    "Shenton Park": ("shenton-park.json", 550),
+    "Victoria Park": ("victoria-park.json", 1100)
 }
 
 

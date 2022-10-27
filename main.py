@@ -8,7 +8,7 @@ from discord import app_commands
 from discord.app_commands import Choice
 from api import revo
 
-# Estimated 60% unusable area (reception, walkways, bathrooms, etc)
+# Estimated 40% unusable area (reception, walkways, bathrooms, etc)
 UNUSABLE_AREA_RATE = 0.40
 # 10 sq metres per person for comfortable experience
 MIN_PERSONAL_SPACE = 10

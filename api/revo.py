@@ -5,7 +5,7 @@ API_ENDPOINT = os.environ["REVO_API"]
 
 # Dictionary of WA gym locations
 LOCATIONS = {
-    "Banksia grove": ("banksia-grove.json", 1100),
+    "Banksia Grove": ("banksia-grove.json", 1100),
     "Belmont": ("belmont.json", 1050),
     "Canning Vale": ("canning-vale.json", 2000),
     "Claremont": ("claremont.json", 1370),
